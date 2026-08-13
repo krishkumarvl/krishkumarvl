@@ -1,83 +1,155 @@
-<h1 data-importer="text" align="left">Namaste 👋</h1>
+<div align="center">
 
-###
+<!-- ANIMATED WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC3,100:4F46E5&height=220&section=header&text=Kanishk%20(Krish)%20Kumar&fontSize=48&fontColor=0D0D0D&animation=fadeIn&fontAlignY=38&desc=Founder%20%40Kryphix.co%20|%20Building%20AI%20in%20Public&descAlignY=58&descSize=18" width="100%"/>
 
-<p data-importer="text" align="left">My name is Krish  and I'm a B.Tech Student from Uttarpradesh, India</p>
+<!-- TYPING SVG -->
+<a href="https://github.com/krishkumarvl">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Krish+%F0%9F%91%8B;B.Tech+CSE+Student+%40+AKTU+'29;Founder+%40+Kryphix.co;Building+KOKI+OS+%26+SvaraSetu+in+Public;Guitarist+%7C+Dreamer+%7C+Future+Army+Officer" alt="Typing SVG" />
+</a>
 
-###
+<br/>
 
-<h2 data-importer="text" align="left">About me</h2>
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=krishkumarvl&label=Profile%20Views&color=00FFC3&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/krishkumarvl?label=Followers&style=flat-square&color=4F46E5" alt="followers"/>
 
-###
-
-<br clear="both">
-
-<p data-importer="text" align="left">I'm a Computer Science student from SRGC Muzaffarnagar India passionate about building AI products that solve real world problems.<br>Currently I'm focused on learning AI Engineering...building projects in public and contributing to open source while documenting everything I learn.<br><br>🌱 Currently Learning<br><br>- Python<br>- Generative AI<br>- LLM Engineering<br>- Prompt Engineering<br>- AI Agents<br>- RAG<br>- System Design<br><br>💻 Skills<br><br>Programming-----<br><br>Python<br>JavaScript<br>Html<br>Css<br><br>AI-----<br><br>Prompt Engineering<br>LLM Integration<br>AI Chatbots<br>AI Workflow Design<br>Context Management<br>Memory Systems<br><br>Soft Skills-----<br><br>Leadership<br>Community Building<br>Public Speaking<br>Event Management<br>Project Management<br>Team Collaboration</p>
-
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">SOCIALS</h3>
+## 🧭 About Me
 
-###
+```yaml
+Name:          Kanishk "Krish" Kumar
+Role:          Founder @ Kryphix.co  |  B.Tech CSE, AKTU (Batch 2025–29)
+Position:      BEST
+Building:      KOKI OS — a model-agnostic AI companion (BYOK: Gemini / OpenAI / Anthropic)
+               SvaraSetu — AI-powered guitar companion (chords, tuner, real-time detection)
+Also:          Social Media Team E-Cell SRGC
+Philosophy:    Make it and Improve it
+Aspiring to:   Content Creator, Guitarist, Learner , Indian Army Officer (following my father's path)
+Grounded by:   Guitar 🎸 · Bhagavad Gita 📖 · Discipline · Devotion 
+Fun fact:      Started with a 25-line terminal chatbot — now shipping full product design systems
+```
 
-<br clear="both">
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/krishkumarvl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/krishkumarvl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="57" height="45" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@krishkumarvl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/krishkumarvl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
-  </a>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krishkumarvl&show_icons=true&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&icon_color=4F46E5&text_color=FAF9F5&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishkumarvl&theme=react&hide_border=true&background=0D0D0D&ring=00FFC3&fire=4F46E5&currStreakLabel=00FFC3" height="165"/>
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<img data-importer="image" align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGgyNXA0NGRqMW4ya2M0ZDFwdTJjMzg5MjV2c25nZm14dm5rNHdwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bg0mdxmTVzjWZHtGat/giphy.gif"  />
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkumarvl&layout=compact&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5&langs_count=8" height="165"/>
 </div>
 
-###
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=krishkumarvl&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/krishkumarvl/krishkumarvl/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🚀 Projects I'm Building
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 KOKI OS
+Model-agnostic personal AI companion with **BYOK** (Bring Your Own Key) architecture — Gemini, OpenAI, and Anthropic.
+
+`React` `Vite` `Tailwind` `FastAPI` `Supabase`
+
+Dashboard · Brain/Chat · Memory · Projects · Tools · Tasks · World Monitor · Student Hub · Arcade
+
+</td>
+<td width="50%" valign="top">
+
+### 🎸 SvaraSetu
+AI guitar companion — chord generation, SVG chord diagrams, real-time tuner & chord detection via FFT.
+
+`React` `Web Audio API` `Pitchy.js` `Gemini API`
+
+Built for guitarists who want their tools to actually listen.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Incepta E-Cell — Brand Identity
+Full brand system for a college entrepreneurship cell — logo, wordmark, and visual language.
+
+`Brand Design` `Figma`
+
+**Electric Indigo** `#4F46E5` · Bold "I" monogram · "Launch what's next"
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Kryphix.co
+My personal venture — the umbrella under which every AI product I ship gets built, documented, and released publicly.
+
+`Build in Public` `Product Design` `AI`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishkumarvl&repo=PROJECT-KOKI&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishkumarvl&repo=SvaraSetu&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5" height="150"/>
+</div>
+
+> 📌 Pin cards pull live from your actual repo names — rename `PROJECT-KOKI` / `SvaraSetu` above to match your exact GitHub repo names if they differ.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-0D0D0D?style=for-the-badge&logo=react&logoColor=00FFC3)
+![Vite](https://img.shields.io/badge/-Vite-0D0D0D?style=for-the-badge&logo=vite&logoColor=4F46E5)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=00FFC3)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=4F46E5)
+![Supabase](https://img.shields.io/badge/-Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=00FFC3)
+![Python](https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&logoColor=4F46E5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=00FFC3)
+![Git](https://img.shields.io/badge/-Git-0D0D0D?style=for-the-badge&logo=git&logoColor=4F46E5)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FFC3)](https://linkedin.com/in/krishkumarvl)
+[![Twitter / X](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=FAF9F5)](https://x.com/krishkumarvl)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=4F46E5)](https://instagram.com/krishkumarvl)
+[![YouTube](https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@krishkumarvl)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/kk5805705)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Discipline is the bridge between goals and accomplishment."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:00FFC3&height=150&section=footer" width="100%"/>
+
+**Thanks for stopping by — this profile is a work in progress, just like everything I'm building.**
+
+</div>
