@@ -1,0 +1,115 @@
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="100%" stop-color="#131316"/>
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.15"/>
+    </pattern>
+  </defs>
+
+  <!-- background terminal -->
+  <rect x="0" y="0" width="600" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="600" height="300" rx="18" fill="url(#scanlines)"/>
+  <rect x="8" y="8" width="584" height="284" rx="12" fill="none" stroke="#00FFC3" stroke-width="2" opacity="0.5"/>
+
+  <!-- terminal dots -->
+  <circle cx="28" cy="28" r="5" fill="#4F46E5"/>
+  <circle cx="46" cy="28" r="5" fill="#00FFC3"/>
+  <circle cx="64" cy="28" r="5" fill="#FAF9F5" opacity="0.6"/>
+
+  <!-- KOKI label -->
+  <text x="300" y="35" font-family="Courier New, monospace" font-size="16" fill="#00FFC3" text-anchor="middle" letter-spacing="4">KOKI_OS // COMPANION.SYS</text>
+
+  <!-- robot antenna -->
+  <line x1="300" y1="70" x2="300" y2="50" stroke="#4F46E5" stroke-width="3"/>
+  <circle cx="300" cy="46" r="6" fill="#00FFC3">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- robot head -->
+  <rect x="200" y="70" width="200" height="160" rx="20" fill="#161618" stroke="#00FFC3" stroke-width="3"/>
+  <rect x="215" y="85" width="170" height="130" rx="12" fill="#0D0D0D" stroke="#4F46E5" stroke-width="1.5" opacity="0.8"/>
+
+  <!-- ============ EXPRESSION GROUPS (cycle every 2s across a 10s loop) ============ -->
+
+  <!-- 1. NEUTRAL (0s - 2s) -->
+  <g id="neutral">
+    <animate attributeName="opacity" attributeType="XML" calcMode="discrete"
+      values="1;0;0;0;0" keyTimes="0;0.2;0.4;0.6;0.8" dur="10s" repeatCount="indefinite"/>
+    <circle cx="265" cy="140" r="14" fill="#00FFC3"/>
+    <circle cx="335" cy="140" r="14" fill="#00FFC3"/>
+    <rect x="280" y="185" width="40" height="6" rx="3" fill="#00FFC3"/>
+  </g>
+
+  <!-- 2. JOY (2s - 4s) -->
+  <g id="joy">
+    <animate attributeName="opacity" attributeType="XML" calcMode="discrete"
+      values="0;1;0;0;0" keyTimes="0;0.2;0.4;0.6;0.8" dur="10s" repeatCount="indefinite"/>
+    <path d="M 251 140 Q 265 122 279 140" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 321 140 Q 335 122 349 140" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 275 180 Q 300 205 325 180" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="250" cy="165" r="8" fill="#4F46E5" opacity="0.5"/>
+    <circle cx="350" cy="165" r="8" fill="#4F46E5" opacity="0.5"/>
+  </g>
+
+  <!-- 3. LAUGHING (4s - 6s) -->
+  <g id="laugh">
+    <animate attributeName="opacity" attributeType="XML" calcMode="discrete"
+      values="0;0;1;0;0" keyTimes="0;0.2;0.4;0.6;0.8" dur="10s" repeatCount="indefinite"/>
+    <path d="M 250 138 Q 265 118 280 138" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 320 138 Q 335 118 350 138" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 270 178 Q 300 212 330 178 Q 300 195 270 178 Z" fill="#00FFC3"/>
+    <text x="300" y="90" font-family="Courier New, monospace" font-size="14" fill="#4F46E5" text-anchor="middle">ha ha ha</text>
+  </g>
+
+  <!-- 4. CRY (6s - 8s) -->
+  <g id="cry">
+    <animate attributeName="opacity" attributeType="XML" calcMode="discrete"
+      values="0;0;0;1;0" keyTimes="0;0.2;0.4;0.6;0.8" dur="10s" repeatCount="indefinite"/>
+    <path d="M 251 145 Q 265 132 279 145" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 321 145 Q 335 132 349 145" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 280 198 Q 300 182 320 198" stroke="#00FFC3" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 262 150 L 256 178" stroke="#4F46E5" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="d" values="M 262 150 L 256 172;M 262 150 L 256 184;M 262 150 L 256 172" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 338 150 L 344 178" stroke="#4F46E5" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="d" values="M 338 150 L 344 172;M 338 150 L 344 184;M 338 150 L 344 172" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- 5. SLEEP (8s - 10s) -->
+  <g id="sleep">
+    <animate attributeName="opacity" attributeType="XML" calcMode="discrete"
+      values="0;0;0;0;1" keyTimes="0;0.2;0.4;0.6;0.8" dur="10s" repeatCount="indefinite"/>
+    <line x1="251" y1="140" x2="279" y2="140" stroke="#00FFC3" stroke-width="5" stroke-linecap="round"/>
+    <line x1="321" y1="140" x2="349" y2="140" stroke="#00FFC3" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 285 188 Q 300 182 315 188" stroke="#00FFC3" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="360" y="110" font-family="Courier New, monospace" font-size="20" fill="#4F46E5">z</text>
+    <text x="375" y="95" font-family="Courier New, monospace" font-size="14" fill="#4F46E5">z</text>
+  </g>
+
+  <!-- blink overlay: quick eyelid flick across neutral/joy/laugh states -->
+  <g>
+    <rect x="248" y="132" width="34" height="16" rx="8" fill="#161618">
+      <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.92;0.96;1" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="318" y="132" width="34" height="16" rx="8" fill="#161618">
+      <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.92;0.96;1" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- side ears / audio lights -->
+  <rect x="185" y="130" width="12" height="40" rx="4" fill="#4F46E5"/>
+  <rect x="403" y="130" width="12" height="40" rx="4" fill="#4F46E5"/>
+
+  <!-- footer status bar -->
+  <text x="300" y="255" font-family="Courier New, monospace" font-size="13" fill="#FAF9F5" text-anchor="middle" opacity="0.7">
+    status: <tspan fill="#00FFC3">online</tspan> &#8226; mood: cycling &#8226; build: kryphix.co
+  </text>
+  <rect x="150" y="270" width="300" height="4" rx="2" fill="#1e1e22"/>
+  <rect x="150" y="270" width="300" height="4" rx="2" fill="#00FFC3">
+    <animate attributeName="width" values="0;300;0" dur="10s" repeatCount="indefinite"/>
+  </rect>
+</svg>
