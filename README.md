@@ -34,16 +34,16 @@ Fun fact:      Started with a 25-line terminal chatbot — now shipping full pro
 ```
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishkumarvl&show_icons=true&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&icon_color=4F46E5&text_color=FAF9F5&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=krishkumarvl&theme=react&hide_border=true&background=0D0D0D&ring=00FFC3&fire=4F46E5&currStreakLabel=00FFC3" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=krishkumarvl&show_icons=true&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&icon_color=4F46E5&text_color=FAF9F5&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=krishkumarvl&theme=react&hide_border=true&background=0D0D0D&ring=00FFC3&fire=4F46E5&currStreakLabel=00FFC3" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkumarvl&layout=compact&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5&langs_count=8" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishkumarvl&layout=compact&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krishkumarvl&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=krishkumarvl&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -124,8 +124,8 @@ My personal venture — the umbrella under which every AI product I ship gets bu
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishkumarvl&repo=PROJECT-KOKI&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishkumarvl&repo=SvaraSetu&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=krishkumarvl&repo=PROJECT-KOKI&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=krishkumarvl&repo=SvaraSetu&theme=react&hide_border=true&bg_color=0D0D0D&title_color=00FFC3&text_color=FAF9F5" height="150"/>
 </div>
 
 > 📌 Pin cards pull live from your actual repo names — rename `PROJECT-KOKI` / `SvaraSetu` above to match your exact GitHub repo names if they differ.
@@ -157,7 +157,7 @@ My personal venture — the umbrella under which every AI product I ship gets bu
 [![Twitter / X](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=FAF9F5)](https://x.com/krishkumarvl)
 [![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=4F46E5)](https://instagram.com/krishkumarvl)
 [![YouTube](https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@krishkumarvl)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/kk5805705)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/kk5805705)
 
 </div>
 
