@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- ANIMATED WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:0DAB52&height=220&section=header&text=Krish%20Kumar&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Founder%20%40Kryphix.co%20|%20Building%20AI%20in%20Public&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/retro-header.svg" width="100%" alt="Krish Kumar retro terminal header"/>
 
-<!-- TYPING SVG -->
-<a href="https://github.com/krishkumarvl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Krish+%F0%9F%91%8B;B.Tech+CSE+Student+%40+AKTU+'29;Founder+%40+Kryphix.co;Building+KOKI+OS+%26+SvaraSetu+in+Public" alt="Typing SVG" />
-</a>
+</div>
 
 <br/>
 
@@ -59,25 +55,53 @@ Fun fact:      Started with a 25-line terminal chatbot — now shipping full pro
 ## 🖥️ Signature Style
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/krishkumarvl/krishkumarvl/main/assets/profile-card.svg" alt="profile card" width="700"/>
+
+<img src="assets/world-grid.svg" alt="Krish Kumar retro pixel profile" width="100%"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/krishkumarvl/krishkumarvl/main/assets/interactive-widget.svg" alt="live terminal widget" width="700"/>
+
+### `> KRISH_OS // PROFILE INITIALIZED`
+
+`AI BUILDER` · `CSE STUDENT` · `FOUNDER @ KRYPhix` · `GUITARIST` · `BUILDING IN PUBLIC`
+
 </div>
 
-<br/>
+---
+
+## 🟢 01 // PROFILE CARD
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/krishkumarvl/krishkumarvl/main/assets/dev-visuals.svg" alt="dev visuals arcade scene" width="700"/>
+
+<img src="assets/profile-card.svg" width="800" alt="Krish Kumar pixel profile card"/>
+
 </div>
 
-<br/>
+## ♟️ 02 // INTERACTIVE WIDGETS
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/krishkumarvl/krishkumarvl/main/assets/signature-skin.svg" alt="signature skin skyline" width="700"/>
+
+<img src="assets/interactive-widget.svg" width="800" alt="KOKI interactive terminal widget"/>
+
+</div>
+
+## 👾 03 // DEV VISUALS
+
+<div align="center">
+
+<img src="assets/dev-visuals.svg" width="800" alt="Retro developer arcade visual"/>
+
+</div>
+
+## 🌆 04 // SIGNATURE SKINS
+
+<div align="center">
+
+<img src="assets/signature-skin.svg" width="800" alt="Kryphix build in public skyline"/>
+
 </div>
 
 ---
