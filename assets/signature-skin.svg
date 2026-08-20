@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="330" viewBox="0 0 700 330">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#12351d" stroke-width="1"/>
+  </pattern>
+  <style>
+    .px { font-family: "Courier New", monospace; font-weight: 700; letter-spacing: 1px; }
+    .small { font-family: "Courier New", monospace; font-size: 13px; font-weight: 700; letter-spacing: .5px; }
+    .green { fill:#58ff72; }
+    .white { fill:#f5f5f5; }
+    .cyan { fill:#59d9ff; }
+  </style>
+</defs>
+<title>Signature Skin - Build in Public</title>
+<rect width="700" height="330" fill="#020706"/>
+<rect width="700" height="330" fill="url(#grid)" opacity=".55"/>
+
+<rect x="1" y="1" width="698" height="328" rx="12" fill="none" stroke="#58ff72" stroke-width="2"/>
+<text x="22" y="43" class="small green">04  SIGNATURE SKINS</text>
+<text x="560" y="43" class="small white">KRYPhix</text>
+<!-- skyline -->
+<g stroke="#58ff72" fill="none" stroke-width="3" filter="url(#glow)">
+  <path d="M50 275 L50 165 L90 165 L90 275"/>
+  <path d="M62 165 V145 M78 165 V145"/>
+  <path d="M110 275 L110 215 L185 165 L230 275"/>
+  <path d="M155 191 L155 275"/>
+  <path d="M230 275 L230 135 L275 135 L275 275"/>
+  <path d="M245 135 V115 M260 135 V115"/>
+  <path d="M300 275 L300 190 L350 190 L350 275"/>
+  <path d="M380 275 L380 150 L415 150 L415 275"/>
+  <path d="M430 275 L430 205 L500 205 L500 275"/>
+</g>
+<!-- windows -->
+<g fill="#58ff72" opacity=".85">
+  <rect x="60" y="180" width="8" height="8"/><rect x="75" y="180" width="8" height="8"/>
+  <rect x="60" y="200" width="8" height="8"/><rect x="75" y="200" width="8" height="8"/>
+  <rect x="245" y="155" width="9" height="9"/><rect x="262" y="155" width="9" height="9"/>
+  <rect x="245" y="178" width="9" height="9"/><rect x="262" y="178" width="9" height="9"/>
+  <rect x="392" y="175" width="8" height="8"/><rect x="406" y="175" width="8" height="8"/>
+</g>
+<text x="455" y="145" class="px green" font-size="24">BUILDING</text>
+<text x="455" y="175" class="px green" font-size="24">IN PUBLIC</text>
+<text x="455" y="205" class="small white">&gt; github.com/krishkumarvl</text>
+<line x1="45" y1="285" x2="650" y2="285" stroke="#1b7d31" stroke-width="2"/>
+<text x="455" y="245" class="small green">KOKI OS  •  SVARASETU</text>
+</svg>
